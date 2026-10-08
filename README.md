@@ -1,1 +1,7 @@
-# pos-disciplina-10-seguran-a-e-governanca-em-ia
+# Pós Disciplina 10 - Segurança e Governança em IA
+
+# Introdução
+Pendente...
+
+## Módulos
+Pendente...
